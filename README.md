@@ -1,3 +1,8 @@
+# :no_entry: Deprecated
+
+This repository is now superceded by the [edge-cloud-platform](https://github.com/edgexr/edge-cloud-platform) repository.
+All code here is migrated to the edge-cloud-platform repo and is no longer maintained.
+
 # Edge-Cloud Platform
 
 The Edge-Cloud Platform is a set of services that allow for distributed and secure management of edge sites ("cloudlets"), featuring deployment of workloads, one-touch provisioning of new cloudlets, monitoring, metrics, alerts, events, and more.
